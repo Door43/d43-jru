@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jru:home|Door43 (jru)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jru|d43-jru repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jru/archive/master.zip|d43-jru.zip]]
+
+**Recent Changes**
+{{changes>ns = jru}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jru|Ethnologue data]]
+
